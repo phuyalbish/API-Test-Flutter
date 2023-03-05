@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "flutter_api" "\0"
+            VALUE "FileDescription", "facebook_with_api" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "flutter_api" "\0"
+            VALUE "InternalName", "facebook_with_api" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2023 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "flutter_api.exe" "\0"
-            VALUE "ProductName", "flutter_api" "\0"
+            VALUE "OriginalFilename", "facebook_with_api.exe" "\0"
+            VALUE "ProductName", "facebook_with_api" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
